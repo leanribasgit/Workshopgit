@@ -10,6 +10,8 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
 
 	  $x = 6;
 	  
+	  $c = 10;
+	  
    
    }
 
