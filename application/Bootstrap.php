@@ -8,7 +8,7 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
      
       $this =  $this;	 
 
-	  $x = 5;
+	  $x = 6;
 	  
    
    }
