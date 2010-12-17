@@ -23,6 +23,9 @@
       <layoutsDirectory enabled="false"/>
       <modelsDirectory>
         <modelFile modelName="Comentarios"/>
+        <dbTableDirectory>
+          <dbTableFile dbTableName="Comentarios"/>
+        </dbTableDirectory>
       </modelsDirectory>
       <modulesDirectory enabled="false"/>
       <viewsDirectory>
