@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 alteração do branch post
-=======
-alteração feita no branch master
->>>>>>> Alteracao feita no master
