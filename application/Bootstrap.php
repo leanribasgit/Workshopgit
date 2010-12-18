@@ -4,5 +4,14 @@ class Bootstrap extends Zend_Application_Bootstrap_Bootstrap
 {
 
 
+
+  public function __initInicial()
+  {
+  
+     echo 'iniciando';
+  
+  }
+  
+  
 }
 
