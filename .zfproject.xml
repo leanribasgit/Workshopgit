@@ -18,6 +18,9 @@
         <controllerFile controllerName="Comentarios">
           <actionMethod actionName="index"/>
         </controllerFile>
+        <controllerFile controllerName="Teste">
+          <actionMethod actionName="index"/>
+        </controllerFile>
       </controllersDirectory>
       <formsDirectory enabled="false"/>
       <layoutsDirectory enabled="false"/>
@@ -40,6 +43,9 @@
             <viewScriptFile forActionName="index"/>
           </viewControllerScriptsDirectory>
           <viewControllerScriptsDirectory forControllerName="Comentarios">
+            <viewScriptFile forActionName="index"/>
+          </viewControllerScriptsDirectory>
+          <viewControllerScriptsDirectory forControllerName="Teste">
             <viewScriptFile forActionName="index"/>
           </viewControllerScriptsDirectory>
         </viewScriptsDirectory>
@@ -78,6 +84,7 @@
         <testApplicationControllerDirectory>
           <testApplicationControllerFile filesystemName="PostControllerTest.php"/>
           <testApplicationControllerFile filesystemName="ComentariosControllerTest.php"/>
+          <testApplicationControllerFile filesystemName="TesteControllerTest.php"/>
         </testApplicationControllerDirectory>
       </testApplicationDirectory>
       <testLibraryDirectory>
